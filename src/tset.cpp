@@ -13,7 +13,7 @@ static TBitField FAKE_BITFIELD(1);
 static TSet FAKE_SET(1);
 
 TSet::TSet(int mp) : BitField(-1)
-{//gыауа
+{//gыау
 }
 
 // конструктор копирования
